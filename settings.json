@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "brothersmp069b.play.hosting", 
+    "ip": "127.0.0.1", 
     "port": 36853,   
     "version": "1.12.1"   
   },
