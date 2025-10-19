@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "Alisha", 
+    "username": "Minato-Sama", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "brothers069b.aternos.me", 
-    "port": 14721,   
+    "ip": "brothersmp069b.play.hosting", 
+    "port": 36853,   
     "version": "1.12.1"   
   },
   
